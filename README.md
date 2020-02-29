@@ -1,7 +1,10 @@
-# exploring-literary-data
-Shiny dashboard for exploring book-related data for popular awards, best-of lists, and authors
+# Exploring literary data
+Shiny dashboard for exploring book-related data for popular awards, best-of lists, and authors.
 
 ## Project update history
+
+2020-03-01:
+* Added World Fantasy Award.
 
 2019-11-21: 
 * Added tab for individual prolific authors, starting with Neil Gaiman, Stephen King, Alice Sheldon, R.L. Stine, and Michael Crichton.

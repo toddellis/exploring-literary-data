@@ -14,7 +14,8 @@ shinyUI(
                              c('Hugo Award',
                                'Nebula Award',
                                'Otherwise Award',
-                               'Pulitzer Prize'),
+                               'Pulitzer Prize',
+                               'World Fantasy Award'),
                              options = list(
                                `actions-box` = TRUE,
                                size = 10, 
@@ -24,7 +25,7 @@ shinyUI(
                              c('Hugo Award',
                                'Nebula Award',
                                'Otherwise Award',
-                               'Pulitzer Prize')),
+                               'World Fantasy Award')),
                  hr(),
                  fluidRow(
                    column(8,
@@ -125,7 +126,7 @@ shinyUI(
                                'User preferences (rating)' = 'sitePrefRating'),
                              'None'),
                  hr(),
-                 h6('LibraryThing & Goodreads data last updated on 17-11-2019.'),
+                 h6('LibraryThing & Goodreads data last updated on 01-03-2020.'),
                  h6('Please send questions or suggestions to toddellis.wa@gmail.com')
                ),
                mainPanel(

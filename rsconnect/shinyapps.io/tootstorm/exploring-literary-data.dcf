@@ -5,8 +5,9 @@ account: tootstorm
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1493373
-bundleId: 2618453
+bundleId: 2839665
 url: https://tootstorm.shinyapps.io/exploring-literary-data/
-when: 1574758730.34559
+when: 1582982973.67469
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: README.md|input/bookAwards_20191117.csv
